@@ -39,6 +39,6 @@ To run and use this shell download zip and unzip and write the following command
 - Only the `-d` and `-f` flags are acceptable in the `directory` command.
 - The `discover` command searches for directory and file names specified as arguments.
 - In the `history` command, if a command contains `;`, it is printed as two separate commands in the history.
-- The repository includes two PDF files, `1.pdf` and `2.pdf`, which presumably contain the commands required to run the shell.
+- The repository includes two PDF files, `1.pdf` and `2.pdf`, contains the commands required to run the shell and has a description of how the command works.
 
 This shell was made as requirement for assignment 2 and assignment 3 of a course named OSN (Operating System Network) in IIIT-H
